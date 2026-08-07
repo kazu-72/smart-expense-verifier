@@ -1,0 +1,9 @@
+{
+  "python.analysis.extraPaths": ["${workspaceFolder}/lambda"],
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": false,
+  "[python]": {
+    "defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe"
+  }
+}
